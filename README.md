@@ -1,5 +1,7 @@
 # BMT 103 FİNALE HAZIRLIK ÖRNEK SORULAR
 
+BMT103 final sınavına hazırlık amacı ile hazırlanmış örnekler ve çözümleridir. Tüm soruların çözümü fonksiyon olarak istenmiştir ve ilgili veri girişlerinin main fonksiyonu içinde yapıldığı varsayılmıştır. Çözümler sadece örnek amaçlıdır, her sorunun birden fazla çözüm yolu olabileceğini unutmayınız 😊
+
 ## GENEL ÖRNEKLER
 
 | Örnek Numaraları | Konusu |

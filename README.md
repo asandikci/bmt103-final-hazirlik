@@ -12,7 +12,7 @@ BMT103 final sınavına hazırlık amacı ile hazırlanmış örnekler ve çöz�
 |----|----|
 | 1-6 | Temel Örnekler |
 | 10-19 | Klasik Örnekler |
-| 20-?  | Sınav Tarzında Örnekler |
+| 20-34 | Sınav Tarzında Örnekler |
 | 50-51 | Çevreden Bulduğum Ekstra Örnekler |
 
 ## BMT 103, 2025-2026 GÜZ DÖNEMİ FİNAL SINAV SORULARI

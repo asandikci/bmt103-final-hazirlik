@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 // SINAV SORUSU 1 - Tavşan Fibonacci
-// -SORU YAZILACAK-
+// Bir çiftlikte ilk ay yeni doğmuş 1 çift tavşan vardır.
+// Yeni doğmuş tavşanlar ilk aydan "sonraki" her ay bir çift tavşan doğurmaktadır
+// GÖRSEL İÇİN BAKINIZ: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fibonacci_Rabbits.svg/660px-Fibonacci_Rabbits.svg.png
 
 // a) f(n) bağıntısını matematiksel olarak yazınız
 //

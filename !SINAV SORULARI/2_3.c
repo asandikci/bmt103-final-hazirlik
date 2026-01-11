@@ -3,7 +3,9 @@
 
 // SINAV SORUSU 2 - Devrik Matris
 // KISMİ DOĞRU ÇÖZÜM (devrik hâli için call by reference kullanılmadığı için tam puan almayabilir)
-// -SORU YAZILACAK-
+//
+// m satır sayısı, n sütün sayısı olmak üzere m*n boyutunda bir matris'in devriğini (transpose) alan fonksiyonu
+// call by reference kullanarak yazınız. Devriğini almak: sütunları satır/satırları sütün yapmak
 
 // ======================
 // Örnek Değerler

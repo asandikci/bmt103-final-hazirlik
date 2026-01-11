@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-
 // SINAV SORUSU 4 - Kargo Yapısı
-// -SORU YAZILACAK-
+// a) içinde ağırlık, yükseklik, derinlik, genişlik değerleri olan bir KARGO yapısı tanımlayınız
+// b) içinde kargo numarası, göndericinin kimlik numarası, alıcının kimlik numarası, teslim durumu ve KARGO yapısı
+//    değerleri olan bir GONDERI yapısı tanımlayınız
+// c) verilen GONDERI yapısındaki bir gonderinin bilgilerini ekrana yazdıran fonksiyonu yazınız
 
 struct KARGO{
   float agirlik;

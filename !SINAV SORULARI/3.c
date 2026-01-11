@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-// SINAV SORUSU 3 - Hata Oranı
-// -SORU YAZILACAK-
+// SINAV SORUSU 3 - Ortalama Kare Hata
+// Parametre olarak aldığı iki tamsayı dizisinin aynı indisli
+// elemanları arasındaki farkların karelerinin ortalamasını hesaplayan bir fonksiyon yazınız
 
 int toplam;
 float hataOrani(int* gercek, int* tahmin, int n){

@@ -21,7 +21,7 @@ BMT103 final sınavına hazırlık amacı ile hazırlanmış örnekler ve çöz�
 |----|----|
 | 1 | Tavşan Fibonacci |
 | 2* | Devrik Matris |
-| 3 | Hata Oranı |
+| 3 | Ortalama Kare Hata |
 | 4 | Kargo Yapısı |
 
 `*` - Devrik Matris sorusu için ilki yanlış diğerleri doğru olmak üzere üç tane çözüm eklenmiştir. İlk kodun neden çalışmadığını anlarsanız ikinci koddaki değişikliklerin veya üçüncü koddaki dinamik bellek yönetiminin gerekliliğini daha iyi kavrayabilirsiniz.

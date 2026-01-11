@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 // SINAV SORUSU 2 - Devrik Matris | YANLIŞ ÇÖZÜM !!!
-// -SORU YAZILACAK-
+// m satır sayısı, n sütün sayısı olmak üzere m*n boyutunda bir matris'in devriğini (transpose) alan fonksiyonu
+// call by reference kullanarak yazınız. Devriğini almak: sütunları satır/satırları sütün yapmak
 
 // ======================
 // Örnek Değerler

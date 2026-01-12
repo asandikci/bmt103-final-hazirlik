@@ -6,22 +6,18 @@
 //    değerleri olan bir GONDERI yapısı tanımlayınız
 // c) verilen GONDERI yapısındaki bir gonderinin bilgilerini ekrana yazdıran fonksiyonu yazınız
 
-struct KARGO{
-  float agirlik;
-  float yukseklik;
-  float derinlik;
-  float genislik;
-};
-
 struct GONDERI{
   int kargoNo;
   long long int gondericiKimlikNo;
   long long int aliciKimlikNo;
   int teslimDurumu;
-  struct KARGO kargo;
+  struct KARGO{
+    float agirlik;
+    float yukseklik;
+    float derinlik;
+    float genislik;
+  } kargo;
 };
-
-// structları iç içe de yazabilirsiniz. 4_2.c dosyasına bakınız.
 
 void kargoYazdir(struct GONDERI gonderi){
   printf("Kargo No: %d\n", gonderi.kargoNo);
